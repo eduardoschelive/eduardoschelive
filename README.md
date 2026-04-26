@@ -9,7 +9,14 @@
 <br/>
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nextjs,nodejs,nestjs&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,nodejs,nestjs,go&theme=dark" height="64"/>
+
+<br/>
+<br/>
+
+<a href="https://eduardoschelive.com">
+  <img src="https://img.shields.io/badge/Blog%20%26%20Portfolio-eduardoschelive.com-7aa2f7?style=for-the-badge&labelColor=1a1b27&logo=vercel&logoColor=c0caf5"/>
+</a>
 
 <br/>
 <br/>
@@ -32,19 +39,15 @@
 <br/>
 
 <a href="https://github.com/eduardoschelive">
-  <img src="https://img.shields.io/badge/-GitHub-1a1b27?style=flat-square&logo=github&logoColor=7aa2f7"/>
+  <img src="https://img.shields.io/badge/GitHub-1a1b27?style=flat-square&logo=github&logoColor=7aa2f7"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/eduardoschelive">
-  <img src="https://img.shields.io/badge/-LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=7aa2f7"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://eduardoschelive.com">
-  <img src="https://img.shields.io/badge/-eduardoschelive.com-1a1b27?style=flat-square&logo=vercel&logoColor=7aa2f7"/>
+  <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=7aa2f7"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:contact@eduardoschelive.com">
-  <img src="https://img.shields.io/badge/-contact%40eduardoschelive.com-1a1b27?style=flat-square&logo=gmail&logoColor=7aa2f7"/>
+  <img src="https://img.shields.io/badge/Email-1a1b27?style=flat-square&logo=gmail&logoColor=7aa2f7"/>
 </a>
 
 <br/>

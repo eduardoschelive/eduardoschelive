@@ -30,13 +30,13 @@
       <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoschelive&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&langs_count=5"/>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%" src="https://streak-stats.demolab.com?user=eduardoschelive&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7"/>
+    </td>
+  </tr>
 </table>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=eduardoschelive&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7"/>
-
-<br/>
 <br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=eduardoschelive&theme=tokyo-night&hide_border=true&area=true"/>
